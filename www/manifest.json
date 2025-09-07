@@ -1,0 +1,26 @@
+{
+  "name": "WiFi Analyzer",
+  "short_name": "WiFiAnalyzer",
+  "description": "Network analysis tool with WiFi scanning, signal strength monitoring, and security assessment",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4A90E2",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait",
+  "categories": [
+    "utilities"
+  ],
+  "lang": "en"
+}
